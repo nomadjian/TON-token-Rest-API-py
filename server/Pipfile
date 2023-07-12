@@ -5,8 +5,12 @@ name = "pypi"
 
 [packages]
 fastapi = "*"
+uvicorn = "*"
+tonsdk = "*"
+ton-client-py = "*"
+tonos-ts4 = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "3.9"
